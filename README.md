@@ -2,7 +2,6 @@
 
 🚀 Automation enthusiast | Skills - Java, Selenium, Postman, Rest Assured, SQL, Jenkins, Kubernetes, Manual testing, OOP | Currently exploring AI and creating projects  
 
- Profile Views - ![Profile Views](https://komarev.com/ghpvc/?username=SoumyashriSingha&color=blue)
 ---
 
 ## 🌟 About Me
@@ -43,6 +42,8 @@ Main Repo - https://github.com/SoumyashriSingha/Carbon-Rewards
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoumyashriSingha&theme=radical)
+
+Profile Views - ![Profile Views](https://komarev.com/ghpvc/?username=SoumyashriSingha&color=blue)
 
 ---
 
