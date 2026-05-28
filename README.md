@@ -14,15 +14,6 @@
 
 ---
 
-## 🔧 Tech Stack
-- **Frontend:** React Native, Expo, JavaScript, react.JS
-- **Backend:** Java, Python, REST APIs, Spring Boot
-- **DevOps & CI/CD tools:** Docker, Jenkins, Kubernetes, Azure
-- **Database:** PostgreSQL, MySQL, OracleDB  
-- **Testing:** Selenium, TestNG, JUnit, RestAssured
-- **Other:** Git, Maven, Workflow Automation  
-
----
 
 ## 📂 Featured Projects
 - 📝 **Task Manager FS** → Full‑stack project for tracking and managing your daily tasks. Spring Boot + React.js
@@ -36,6 +27,16 @@ Main Repo - https://github.com/SoumyashriSingha/PageObjectModelSelenium
 
 - ♻️ **Carbon-Rewards** → Full-Stack IoT Reward System Project with Raspberry Pi, on basis of your Vehicle's carbon emissions you get rewards which can be claimed. Python Flask + React.js 
 Main Repo - https://github.com/SoumyashriSingha/Carbon-Rewards
+
+---
+
+## 🔧 Tech Stack
+- **Frontend:** React Native, Expo, JavaScript, react.JS
+- **Backend:** Java, Python, REST APIs, Spring Boot
+- **DevOps & CI/CD tools:** Docker, Jenkins, Kubernetes, Azure
+- **Database:** PostgreSQL, MySQL, OracleDB  
+- **Testing:** Selenium, TestNG, JUnit, RestAssured
+- **Other:** Git, Maven, Workflow Automation  
 
 ---
 
