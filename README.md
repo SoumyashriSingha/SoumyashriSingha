@@ -41,10 +41,6 @@ Main Repo - https://github.com/SoumyashriSingha/Carbon-Rewards
 
 ## 📊 GitHub Stats
 
-![Soumyashri's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyashriSingha&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyashriSingha&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoumyashriSingha&theme=radical)
 
 ---
