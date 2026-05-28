@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Soumyashri Singha  
 
-🚀 **Automation enthusiast | Skills - Java, Selenium, Postman, Rest Assured, SQL, Jenkins, Kubernetes, Manual testing, OOP | Currently exploring AI and creating projects  
+🚀 Automation enthusiast | Skills - Java, Selenium, Postman, Rest Assured, SQL, Jenkins, Kubernetes, Manual testing, OOP | Currently exploring AI and creating projects  
 
  Profile Views - ![Profile Views](https://komarev.com/ghpvc/?username=SoumyashriSingha&color=blue)
 ---
