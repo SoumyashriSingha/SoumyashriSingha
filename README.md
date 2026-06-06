@@ -15,6 +15,9 @@
 
 
 ## 📂 Featured Projects
+- 📝 **CodeAtlas-backend** → AI-powered FastAPI backend that analyzes GitHub repositories, detects tech stacks, generates architecture diagrams, and provides GPT-5-powered codebase insights.
+Main Repo - [https://github.com/SoumyashriSingha/taskManagerFS](https://github.com/SoumyashriSingha/codeatlas-backend)
+
 - 📝 **Task Manager FS** → Full‑stack project for tracking and managing your daily tasks. Spring Boot + React.js
 Main Repo - https://github.com/SoumyashriSingha/taskManagerFS
 
