@@ -19,6 +19,9 @@
 Main Repo - https://github.com/SoumyashriSingha/codeatlas-backend
 Frontend - https://github.com/sejalsksagar/codeatlas-frontend
 
+- 📝 **CodeAtlas-Selenium** -> A complete, enterprise-grade Selenium UI automation framework for CodeAtlas (AI-powered GitHub repository analyzer) at https://codeatlas-frontend-khaki.vercel.app/
+Main Repo - https://github.com/SoumyashriSingha/CodeAtlas-Selenium
+
 - 📝 **Task Manager FS** → Full‑stack project for tracking and managing your daily tasks. Spring Boot + React.js
 Main Repo - https://github.com/SoumyashriSingha/taskManagerFS
 
